@@ -16,7 +16,7 @@ scoreboard objectives remove epl_unloaddelay
 
 # Step 3: Disable the datapack to prevent it from trying to run next tick, which would cause a lot of errors
 tellraw @s ["",{text:"[StablePaperEnderpearlLoading] ",bold:true,color:"light_purple"},{text:"Finished removing datapack resources from the world. You can now deleter the zip file from your world!",color:"dark_purple"}]
-datapack disable "file/StablePaperEnderpearlLoading-Mc26.2-v2.zip"
+datapack disable "file/StablePaperEnderpearlLoading-Mc26.3-v1.zip"
 
 # Step 4:
 # MANUAL ACTION: You now have to manually delete the datapack file from the world save.
