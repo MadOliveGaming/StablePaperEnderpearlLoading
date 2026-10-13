@@ -1,5 +1,5 @@
 # StablePaperEnderpearlLoading
-A Minecraft 26.2 datapack that makes enderpearl loading and the time for which a chunk remains loaded after the pearl is gone stable (works on paper!).
+A Minecraft 26.2 and 26.3 datapack that makes enderpearl loading and the time for which a chunk remains loaded after the pearl is gone stable (works on paper!).
 
 
 # FAQ
