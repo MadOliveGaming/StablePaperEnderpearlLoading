@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Ender Pearl Chunk Loader for Minecraft 26.2",
+    "min_format": [107, 1],
+    "max_format": [107, 1]
+  }
+}
